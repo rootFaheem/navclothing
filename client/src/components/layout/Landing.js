@@ -12,8 +12,7 @@ class Landing extends Component {
                 <h1 className="display-3 mb-4">nav clothing</h1>
                 <p className="lead">
                   {" "}
-                  Fashion paradise for all the people. We provide what people
-                  wants.
+                  Fashion paradise for everyone. We provide what people wants.
                 </p>
                 <hr />
                 <Link to="/register" className="btn btn-lg btn-info mr-2">
